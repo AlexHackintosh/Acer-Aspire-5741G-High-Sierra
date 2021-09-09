@@ -17,6 +17,10 @@
 * Brightness(Only with functional Buttons, system change will not work)
 * ATI Radeon HD5470 with 512MB VRAM
 
+**What is not working:**
+
+* Inegrated Broadcom Bluetooth
+
 **Todo**
 
 You will need to upgrade your BIOS to the Latest Version(1.23) or EFI will not work
