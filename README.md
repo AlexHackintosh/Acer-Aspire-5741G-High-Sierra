@@ -30,12 +30,12 @@ After Install you have to change the Serial Number into config.plist settings
 
 **Credits**
 
-[ludox](https://www.insanelymac.com/forum/topic/327808-acer-aspire-5741g-ati-hd-5470-full-high-sierra/)
-[Mocca55](https://www.hackintosh-forum.de/forum/thread/40162-acer-aspire-5741g-i5-430m-hd5470-4gb-ram-bd-15-6zoll/?pageNo=2)
-[iHack](https://t.me/macosx86)
-[PRO HACKINTOSH](https://t.me/Pro_Hackintosh)
-[RehabMan](https://github.com/RehabMan)
-[frbuccoliero](https://github.com/frbuccoliero/HighSierraAspire5750G)
+* [ludox](https://www.insanelymac.com/forum/topic/327808-acer-aspire-5741g-ati-hd-5470-full-high-sierra/)
+* [Mocca55](https://www.hackintosh-forum.de/forum/thread/40162-acer-aspire-5741g-i5-430m-hd5470-4gb-ram-bd-15-6zoll/?pageNo=2)
+* [iHack](https://t.me/macosx86)
+* [PRO HACKINTOSH](https://t.me/Pro_Hackintosh)
+* [RehabMan](https://github.com/RehabMan)
+* [frbuccoliero](https://github.com/frbuccoliero/HighSierraAspire5750G)
 
 **Contacts**
 
