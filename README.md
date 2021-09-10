@@ -6,7 +6,7 @@
 
 * iMessage, FaceTime(change ROM and MLB to Valid and they will be work) and all Apple Services
 * Integrated Broadcom WiFi(BCM943225HM)
-* Ethernet
+* Ethernet(BCM57780)
 * Battery with charge status
 * Trackpad (only up to 2-fingers, 3-fingers can work with latest VoodooPS2Controller.kext but Trackpad buttons will not work with it)
 * All USB Ports(If some ports not working on your laptop change USBPorts.kext to USBInjectAll.kext(0.7.3 and 0.7.5 were tested) and Remade USBPorts using Hackintool for your laptop.
