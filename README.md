@@ -20,6 +20,7 @@
 **What is not working:**
 
 * Inegrated Broadcom Bluetooth
+* Integrated Camera(It is working with 360p, I disable it 
 
 **Todo**
 
