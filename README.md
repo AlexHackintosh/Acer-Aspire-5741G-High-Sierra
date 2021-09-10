@@ -20,7 +20,7 @@
 **What is not working:**
 
 * Inegrated Broadcom Bluetooth
-* Integrated Camera(It is working with 360p, I disable it 
+* Integrated Camera(It is working with Low Resolution, I disable it to make FaceTime work)
 
 **Todo**
 
